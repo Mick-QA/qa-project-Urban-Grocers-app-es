@@ -25,3 +25,11 @@ La nueva función permitirá a los usuarios:
 - JSON
 - Pytest
 
+## Requerimientos previos
+
+Es recomendable contar con las librerías `requests` y `pytest`
+instaladas para que las pruebas sean ejecutadas. Para hacerlo,
+es necesario correr los siguientes comandos en la consola:
+
+- _`pip install requests`_
+- _`pip install pytest`_
